@@ -1,0 +1,9 @@
+{
+  "name": "emojis-json",
+  "version": "1.0.0",
+  "description": "A collection of emojis",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
